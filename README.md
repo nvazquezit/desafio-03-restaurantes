@@ -4,7 +4,7 @@
 
 ## NETLIFY LINK
 ```sh
-kaleidoscopic-kelpie-823d27
+https://venerable-puffpuff-ca3767.netlify.app
 ``` 
 
 ## GITHUB LINK
