@@ -9,5 +9,5 @@ kaleidoscopic-kelpie-823d27
 
 ## GITHUB LINK
 ```sh
-https://github.com/nvazquezit/desafio-01.git
+https://github.com/nvazquezit/desafio-03-restaurantes.git
 ```
