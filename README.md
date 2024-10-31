@@ -4,7 +4,7 @@
 
 ## NETLIFY LINK
 ```sh
-https://venerable-puffpuff-ca3767.netlify.app
+https://stalwart-monstera-fab4c1.netlify.app
 ``` 
 
 ## GITHUB LINK
